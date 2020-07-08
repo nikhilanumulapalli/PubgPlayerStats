@@ -26,6 +26,3 @@ target
 workspace.xml
 atlassian-ide-plugin.xml
 *.sc
-
-#large data files
-data
